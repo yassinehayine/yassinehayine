@@ -81,3 +81,8 @@ Software developer student at ESISA, Fès. I enjoy building real projects — fr
 <div align="center">
 <sub>Open to internships and freelance work · Fès, Morocco 🇲🇦</sub>
 </div>
+## 📬 Contact Me
+
+- 📧 Email: yassinehayine@gmail.com  
+- 🐙 GitHub: github.com/yassinehayine  
+- 🌐 Portfolio: https://yassinehayine.github.io  
