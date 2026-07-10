@@ -8,12 +8,14 @@
 
 ---
 
-### About
+## 👋 About Me
 
-Software developer student at ESISA, Fès. I enjoy building real projects — from desktop apps in C to web platforms and mobile apps. Currently improving my skills in Java, web development, and exploring modern frameworks like React and Spring Boot.
+Software Engineering student at ESISA (Fès, Morocco) passionate about backend development, AI-powered applications, and full-stack web development.
+
+I enjoy building real-world software using Java, Spring Boot, React, PostgreSQL, and Docker, while continuously improving my software engineering skills through personal projects.
 
 - 🎓 &nbsp;Studying Software Engineering at **ESISA, Fès**
-- 🌱 &nbsp;Learning **React** and **Spring Boot**
+- 🌱 &nbsp;Currently learning Docker, CI/CD, and Software Architecture
 - 💼 &nbsp;Looking for an **internship** or **freelance** opportunity
 - 🗣️ &nbsp;Arabic · French · English
 - 📬 &nbsp;[yassinehayine@gmail.com](mailto:yassinehayine@gmail.com)
@@ -22,42 +24,56 @@ Software developer student at ESISA, Fès. I enjoy building real projects — fr
 
 ### Tech Stack
 
-**Languages**
+### Backend
+- Java
+- Spring Boot
+- Node.js
+- Express
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+### Frontend
+- React
+- Vite
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
 
-**Databases**
+### Mobile
+- React Native
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
 
-**Tools**
+### Tools
+- Git
+- GitHub
+- Docker
+- Postman
+- Linux
+- VS Code
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Languages
+- Java
+- C
+- C++
+- C#
+- Python
+- JavaScript
+- R
 
 ---
 
-### Projects
+## 🚀 Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [AtlasWay](https://github.com/yassinehayine/AtlasWay) | Carpooling platform for Morocco — web, mobile & REST API | React, Node.js, MongoDB, React Native |
-| [Chess Game](https://github.com/yassinehayine/Chess-Game) | Chess game with graphical interface built in C and Qt | C, Qt |
-| [Connect 4 — AI](https://github.com/yassinehayine/Puissance4-AI) | Connect 4 with an AI opponent using the Minimax algorithm | Python |
-| [School Management](https://github.com/yassinehayine/Gestion-Ecole) | Student and grade management system in C | C |
+|---------|-------------|-------|
+| **NovaHire** | AI-powered interview preparation platform with AI-generated interviews and automated evaluation. | Spring Boot • React • PostgreSQL • Docker • Gemini |
+| **AtlasWay** | Smart carpooling platform for Morocco with web and mobile applications. | MERN • React Native |
+| **Chess Game** | Desktop chess game with a graphical interface. | C • Qt |
+| **Connect 4 AI** | Connect Four game featuring a Minimax AI opponent. | Python |
+| **School Management** | Desktop application for managing students and grades. | C |
 
 ---
 
