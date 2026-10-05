@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Yassine+HAYINE;Software+Developer+%7C+Java+%26+Web;Based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Yassine+HAYINE;Software+Engineer+%7C+Full-Stack+Developer;AI+%26+Backend+Enthusiast+%7C+Morocco+%F0%9F%87%B2%F0%9F%87%A6)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=yassinehayine&label=Profile+Views&color=0d1117&style=flat" alt="profile views" />
 
@@ -10,57 +10,70 @@
 
 ## 👋 About Me
 
-Software Engineering student at ESISA (Fès, Morocco) passionate about backend development, AI-powered applications, and full-stack web development.
+Software Engineering student at **ESISA, Fès**, passionate about building scalable full-stack applications, backend systems, and AI-powered solutions.
 
-I enjoy building real-world software using Java, Spring Boot, React, PostgreSQL, and Docker, while continuously improving my software engineering skills through personal projects.
+I enjoy turning ideas into real-world products, from REST APIs and database architecture to modern frontend experiences and AI/LLM integrations.
 
-- 🎓 &nbsp;Studying Software Engineering at **ESISA, Fès**
-- 🌱 &nbsp;Currently learning Docker, CI/CD, and Software Architecture
-- 💼 &nbsp;Looking for an **internship** or **freelance** opportunity
-- 🗣️ &nbsp;Arabic · French · English
-- 📬 &nbsp;[yassinehayine@gmail.com](mailto:yassinehayine@gmail.com)
+- 🎓 Studying Software Engineering at **ESISA, Fès**
+- 💻 Focused on **Full-Stack Development & Software Engineering**
+- 🤖 Interested in **AI, LLMs and RAG**
+- 🌱 Currently improving my skills in **Docker, CI/CD and Software Architecture**
+- 💼 Open to **internships and freelance opportunities**
+- 🗣️ Arabic · French · English
+- 📬 **yassinehayine@gmail.com**
 
 ---
 
-### Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend
 - Java
 - Spring Boot
 - Node.js
+- NestJS
 - Express
+- Fastify
 
 ### Frontend
 - React
-- Vite
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-
-### Mobile
 - React Native
+- TypeScript
+- JavaScript
+- Vite
+- Tailwind CSS
+- HTML / CSS
+
+### AI & Data
+- LLMs
+- RAG
+- Google Gemini
+- Ollama
+- Llama 3
+- LLaVA
 
 ### Databases
 - PostgreSQL
 - MongoDB
 - MySQL
+- Redis
 
-### Tools
+### DevOps & Tools
+- Docker
 - Git
 - GitHub
-- Docker
+- GitHub Actions
 - Postman
 - Linux
 - VS Code
 
-### Languages
+### Programming Languages
 - Java
+- Python
 - C
 - C++
 - C#
-- Python
 - JavaScript
+- TypeScript
 - R
 
 ---
@@ -69,19 +82,21 @@ I enjoy building real-world software using Java, Spring Boot, React, PostgreSQL,
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **NovaHire** | AI-powered interview preparation platform with AI-generated interviews and automated evaluation. | Spring Boot • React • PostgreSQL • Docker • Gemini |
-| **AtlasWay** | Smart carpooling platform for Morocco with web and mobile applications. | MERN • React Native |
+| **NovaHire** | AI-powered interview preparation platform with AI-generated interviews, evaluation and personalized feedback. | Spring Boot • React • PostgreSQL • Gemini • Docker |
+| **AtlasWay** | AI-powered Moroccan carpooling platform with real-time communication, payments and mobile applications. | Node.js • React • MongoDB • React Native • Ollama |
+| **TenderPilot** | AI-powered tender analysis platform for requirement extraction, compliance evaluation and structured proposal generation. | React • TypeScript • Fastify • PostgreSQL • Redis • RAG |
 | **Chess Game** | Desktop chess game with a graphical interface. | C • Qt |
 | **Connect 4 AI** | Connect Four game featuring a Minimax AI opponent. | Python |
 | **School Management** | Desktop application for managing students and grades. | C |
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=yassinehayine&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&count_private=true"/>
+
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinehayine&layout=compact&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9"/>
 
 </div>
@@ -94,11 +109,16 @@ I enjoy building real-world software using Java, Spring Boot, React, PostgreSQL,
 
 ---
 
-<div align="center">
-<sub>Open to internships and freelance work · Fès, Morocco 🇲🇦</sub>
-</div>
-## 📬 Contact Me
+## 📬 Contact
 
-- 📧 Email: yassinehayine@gmail.com  
-- 🐙 GitHub: github.com/yassinehayine  
-- 🌐 Portfolio: https://yassinehayine.github.io  
+- 📧 **Email:** yassinehayine@gmail.com
+- 🐙 **GitHub:** [github.com/yassinehayine](https://github.com/yassinehayine)
+- 🌐 **Portfolio:** [yassinehayine.github.io](https://yassinehayine.github.io)
+
+---
+
+<div align="center">
+
+<sub>Open to internships and freelance opportunities · Fès, Morocco 🇲🇦</sub>
+
+</div>
